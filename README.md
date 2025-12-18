@@ -1,6 +1,6 @@
 🏥 Diabetes Predictor
 
-🔗 Repository: MasterSailor10/diabetes_predictor_s
+🔗 Repository: ExWhyZed00/Diabetes-predictor
 
 🚀 Overview
 
@@ -12,7 +12,7 @@ The Diabetes Predictor is a machine learning-powered web application designed to
 
 📂 Project Structure
 
-diabetes_predictor_s/ │── templates/ # HTML templates for the web app
+Diabetes_predictor/ │── templates/ # HTML templates for the web app
 │── static/ # Static assets like CSS & images
 │── app.py # Flask web application
 │── diabetes.csv # Dataset used for model training
@@ -26,9 +26,7 @@ diabetes_predictor_s/ │── templates/ # HTML templates for the web app
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/MasterSailor10/diabetes_predictor_s.git
-
-cd diabetes_predictor_p
+git clone https://github.com/ExWhyZed00/Diabetes-predictor.git cd Diabetes_predictor
 
 2️⃣ Create & Activate Virtual Environment (Optional but Recommended)
 
@@ -72,4 +70,4 @@ This project is licensed under the MIT License – free to use and modify.
 
 📬 Contact
 
-👤 Siddhartha Singh 📧 10mastergaming10@gmail.com 🔗 https://www.linkedin.com/in/siddhartha1010/
+👤 Akansh Harlalka 📧 akanshharlalka@yahoo.com 🔗 https://www.linkedin.com/in/akansh-harlalka-4771b9275/
